@@ -1,0 +1,19 @@
+
+
+java:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(¹ƒûÿÿÿÿ8ÕûìÑ.
+u	java:S116"ZRename this field "Voting_finished" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¼ı8àï¾Ò.
+j	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş£¡–8øò·¿Ò.
+N
+java:S1602=",Remove useless curly braces around statement(÷„›Åøÿÿÿÿ8‚ÿ¿Ò.
+N
+java:S1602&",Remove useless curly braces around statement(–ñòşÿÿÿÿ8µ¯¬¬Ò.
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¼şÕÿÿÿÿÿ8ØÄ®¿Ò.
+“
+java:S1319%"vThe type of the "playerIndexMap" object should be an interface such as "Map" rather than the implementation "HashMap".(Ò¼ÅË8Ô¨Á¿Ò.
+j	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÕ“ß8øò·¿Ò.
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(åİƒ¶ÿÿÿÿÿ8Õä«Ò.
+m	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş£¡–8øò·¿Ò.
+r	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÆ‡Ëÿÿÿÿÿ8ØÄ®¿Ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øäë¯
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ıÅº8© µ¿Ò.

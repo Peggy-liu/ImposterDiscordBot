@@ -1,0 +1,13 @@
+
+Š
+java:S1319Q"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(–±ù«8áÑ¡éÑ.
+h
+java:S1128"FRemove this unused import 'net.dv8tion.jda.api.entities.MessageEmbed'.(Ò«ïÕùÿÿÿÿ8ü£¬éÑ.
+‰
+java:S1319@"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(”ïŸ28à±¾ÃÑ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øäë¯
+O
+java:S1135)"2Complete the task associated to this TODO comment.(ùõ8ÀÚÕŠÓ.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë«ÏÓüÿÿÿÿ8ø¡³ÄÑ.
+:
+java:S2119("Save and re-use this "Random".(¼İÅf8·ŞçÃÑ.

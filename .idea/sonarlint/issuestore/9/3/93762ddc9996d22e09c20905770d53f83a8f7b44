@@ -1,0 +1,15 @@
+
+L
+java:S1066K"/Merge this if statement with the enclosing one.(«š¤Å8”Âà‘Ó.
+s	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ª­Ùşÿÿÿÿ8¹»Ì‘Ó.
+F
+java:S1125~")Remove the literal "false" boolean value.(«Óƒ8¹»Ì‘Ó.
+R
+java:S1066"/Merge this if statement with the enclosing one.(ıı •ıÿÿÿÿ8¹»Ì‘Ó.
+u
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 106 to the 15 allowed.(ãŒ§ùÿÿÿÿ8˜ŠŒÓ.
+z	java:S135g"YReduce the total number of break and continue statements in this loop to use at most one.(…¬å¿ıÿÿÿÿ8¹»Ì‘Ó.
+m	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‘™¶8¹»Ì‘Ó.
+N
+java:S1602V",Remove useless curly braces around statement(Òşÿÿÿÿ8”Âà‘Ó.
+X	java:S125"<This block of commented-out lines of code should be removed.(ã¦œÚ8¥ Û‘Ó.

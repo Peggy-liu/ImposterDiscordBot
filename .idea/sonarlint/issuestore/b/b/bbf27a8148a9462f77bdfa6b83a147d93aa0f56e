@@ -1,0 +1,6 @@
+
+t
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¦‰ë×úÿÿÿÿ8þ§åŒÓ.
+Q
+java:S1066J"/Merge this if statement with the enclosing one.(Éë¬èÿÿÿÿÿ8þ§åŒÓ.
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ïš¾úÿÿÿÿ8þ§åŒÓ.
